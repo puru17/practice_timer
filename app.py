@@ -2,7 +2,7 @@ import time
 import winsound
 
 def main():
-    delays =  [2,2,2,2.5,6.5,5.5,3.5,1,6] # mins
+    delays =  [2,0.1,2,0.1,2,0.1] #,2.5,6.5,5.5,3.5,1,6] # mins
     freq = 320 # Hz
     duration = 1500 # ms
 
